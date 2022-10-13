@@ -1,0 +1,76 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  margin-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 5px;
+}
+
+header{
+  padding-top: 50px;
+}
+
+
+header, nav{
+  text-align: center;
+}
+
+.logo{
+  width: 18%;
+}
+
+.slogan{
+  color: #00FF00;
+  margin-bottom: 0px;
+}
+
+nav{
+  width: 800px;
+  margin: auto;
+  padding: 5px;
+  background-color: #00FF00;
+}
+
+main{
+  color: white;
+  width: 800px;
+  margin: auto;
+}
+
+section{
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.nome-monopattino{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.orange{
+  width: 300px;
+  height: 25px;
+  background-color: #FFD580;
+  border-radius: 5px;
+}
+
+.green{
+  width: 700px;
+  height: 25px;
+  background-color: #6ee13c;
+  border-radius: 5px;
+}
+
+.red{
+  width: 150px;
+  height: 25px;
+  background-color: #e94949;
+  border-radius: 5px;
+}
